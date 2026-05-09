@@ -42,3 +42,11 @@ I'm looking forward to seeing you in other luv2code courses!
 * [Facebook Page - luv2code](https://www.facebook.com/luv2codetv)
 * [X (Twitter) - luv2code](https://twitter.com/luv2codetv)
 * [LinkedIn](https://www.linkedin.com/in/chaddarby/)
+
+## Validation
+
+Run the relevant Spring Boot tests or application flow after changing a lab. Note the expected database state when persistence behavior matters.
+
+## Engineering Notes
+
+Course-derived labs become stronger when each module explains the concept, the trade-off, and the minimal command needed to reproduce it.
